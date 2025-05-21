@@ -1,0 +1,2 @@
+[2025-05-20T09:28:06-07:00] Authorized use: 1 credit. Remaining: 0
+[2025-05-21T10:36:22.791733] Check: ✅ Budget OK (Remaining: 1.0)
