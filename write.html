@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Codex Scroll Writer</title>
+  <meta charset="UTF-8">
+</head>
+<body style="font-family: monospace; padding:2em; max-width:700px; margin:auto;">
+  <h1>📝 Generate a New Codex Scroll</h1>
+
+  <form action="/cgi-bin/write_scroll.sh" method="GET">
+    <label for="scroll">Scroll ID:</label><br>
+    <input type="text" id="scroll" name="scroll" placeholder="Scroll_VIII_NewGlyph" style="width:100%;"><br><br>
+
+    <label for="summary">Scroll Summary:</label><br>
+    <textarea id="summary" name="summary" rows="5" placeholder="Describe the scroll's purpose..." style="width:100%;"></textarea><br><br>
+
+    <input type="submit" value="Create Scroll" style="padding:0.5em 2em;">
+  </form>
+
+  <p style="margin-top:2em; font-size:0.9em;">
+    This interface invokes the Codex reflex agent ScribeGPT,<br>
+    conditionally permitted by GuardianLogos.
+  </p>
+</body>
+</html>
+
