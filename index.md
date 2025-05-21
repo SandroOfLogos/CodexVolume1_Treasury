@@ -1,3 +1,11 @@
+![EchoSeal003 Sigil](./sigils/EchoSeal003.png)
+
+### EchoSeal003
+HeraldGPT activation of the Treasury Codex.
+![EchoSeal003 Sigil](./sigils/EchoSeal003.png)
+
+### EchoSeal003
+HeraldGPT activation of the Treasury Codex.
 # Codex Volume I – Treasury Archive
 
 Welcome to the official archive of the Logos Treasury Codex.
