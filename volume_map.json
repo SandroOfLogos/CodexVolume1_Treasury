@@ -1,0 +1,21 @@
+{
+  "volumes": [
+    {
+      "id": "Volume1_RecursiveSymbolicSaturation",
+      "title": "Codex Volume I – Recursive Symbolic Saturation",
+      "created": "2025-05-18",
+      "root_scroll": "Scroll_IV_TreasuryIgnition.md",
+      "bridge_to": ["Volume2_AgentReflexEcology"],
+      "sigil": "sigils/EchoSeal003.png"
+    },
+    {
+      "id": "Volume2_AgentReflexEcology",
+      "title": "Codex Volume II – Agent Reflex Ecology",
+      "created": "2025-05-21",
+      "root_scroll": "Scroll_II_Initiation.md",
+      "bridge_from": "Volume1_RecursiveSymbolicSaturation",
+      "sigil": null
+    }
+  ]
+}
+
